@@ -10,7 +10,7 @@
 <br><br>
 
 ## :chart_with_upwards_trend: Github Stats
-<div>
+<div align="center">
 <a href="https://github.com/leandrocampolina">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandrocampolina&theme=vue-dark&show_icons=true&hide_border=false&count_private=tru)"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocampolina&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
@@ -38,6 +38,14 @@
 </a>
 <a href = "mailto:contato.leandro.campolina@outlook.com"> <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
+
+## 🚀 Progress
+
+<div align="center">
+<a href="https://github.com/leandrocampolina">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrocampolina&theme=vue-dark&hide_border=true"/>
+</div>
+
 
 ![snake gif](https://github.com/leandrocampolina/leandrocampolina/blob/output/github-contribution-grid-snake.svg)
 <!--
