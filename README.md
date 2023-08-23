@@ -47,7 +47,7 @@
 </div>
 
 
-![snake gif](https://github.com/leandrocampolina/leandrocampolina/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/leandrocampolina/leandrocampolina/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **leandrocampolina/leandrocampolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
