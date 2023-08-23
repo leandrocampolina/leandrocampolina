@@ -38,6 +38,8 @@
 </a>
 <a href = "mailto:contato.leandro.campolina@outlook.com"> <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
+
+![snake gif](https://github.com/leandrocampolina/leandrocampolina/blob/output/github-contribution-grid-snake.svg)
 <!--
 **leandrocampolina/leandrocampolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
