@@ -3,7 +3,7 @@
 <br>
 
 🔥 Junior Developer<br>
-💼 Currently working at [JMV Technology](https://jmvtechnology.com/en/)<br>
+💼 Currently working at [VEGA Monitoramento](https://vegamonitoramento.com.br/)<br>
 🎓 Studying software engineering at Estácio de sá<br>
 
 
