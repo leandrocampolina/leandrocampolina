@@ -2,8 +2,8 @@
 
 <br>
 
-🔥 FrontEnd Developer<br>
-💼 Currently working at [VEGA Monitoramento](https://vegamonitoramento.com.br/)<br>
+🔥 FullStack Developer<br>
+💼 Currently working at ACTO<br>
 🎓 Studying software engineering at Estácio de sá<br>
 
 
